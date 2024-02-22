@@ -1,0 +1,3 @@
+def away():
+    print("Throwaway!")
+    
